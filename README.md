@@ -1,10 +1,13 @@
 # myFirstGit
 
 ### Description
+This is the git repository for the 2nd workshop in software frameworks.
 
 ### Install Instructions
+Use git clone to get this project.
 
 ### Run Instructions
+run this project using node
 
 ### Course Content
 | Week   | Content                                  |
